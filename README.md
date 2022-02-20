@@ -24,17 +24,17 @@ Chinese version -
 ---
 
 
-![eON-INDOOR_CLIMATE_SENSOR_EFEKTA_eON29z](https://github.com/smartboxchannel/EFEKTA_eON213z/blob/main/IMAGES/004.jpg) 
+![eON-INDOOR_CLIMATE_SENSOR_EFEKTA_eON29z](https://github.com/smartboxchannel/eON-INDOOR_CLIMATE_SENSOR_EFEKTA_eON29z/blob/main/IMAGES/004.jpg) 
 
-![eON-INDOOR_CLIMATE_SENSOR_EFEKTA_eON29z](https://github.com/smartboxchannel/EFEKTA_eON213z/blob/main/IMAGES/003.jpg) 
+![eON-INDOOR_CLIMATE_SENSOR_EFEKTA_eON29z](https://github.com/smartboxchannel/eON-INDOOR_CLIMATE_SENSOR_EFEKTA_eON29z/blob/main/IMAGES/003.jpg) 
 
 ## V1_R1
 
-![eON-INDOOR_CLIMATE_SENSOR_EFEKTA_eON29z](https://github.com/smartboxchannel/EFEKTA_eON213z/blob/main/IMAGES/001.jpg) 
+![eON-INDOOR_CLIMATE_SENSOR_EFEKTA_eON29z](https://github.com/smartboxchannel/eON-INDOOR_CLIMATE_SENSOR_EFEKTA_eON29z/blob/main/IMAGES/001.jpg) 
 
 ## V1_R2
 
-![eON-INDOOR_CLIMATE_SENSOR_EFEKTA_eON29z](https://github.com/smartboxchannel/EFEKTA_eON213z/blob/main/IMAGES/002.jpg) 
+![eON-INDOOR_CLIMATE_SENSOR_EFEKTA_eON29z](https://github.com/smartboxchannel/eON-INDOOR_CLIMATE_SENSOR_EFEKTA_eON29z/blob/main/IMAGES/002.jpg) 
 
 
 ### How to flash the device
