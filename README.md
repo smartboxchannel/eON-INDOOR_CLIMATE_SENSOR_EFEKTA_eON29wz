@@ -8,7 +8,7 @@ It's a fully assembled and programmed compact wireless devices, atmospheric pres
 
 #### Sale: https://www.tindie.com/products/diyberk/indoor-weather-station-efekta-eon290wz-zigbee/
 
-#### Video: 
+#### Video: https://youtu.be/teVAnFkF8Qc
 
 #### zigbee2mqtt.io/supported-devices: https://www.zigbee2mqtt.io/supported-devices/#s=efekta
 
