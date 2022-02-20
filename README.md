@@ -89,7 +89,7 @@ https://github.com/sigma7i/zigbee-wiki/wiki/zigbee-firmware-install (RU)
 4. Press the reset button on the device (the join procedure will begin, еhe device starts flashing the LED repeatedly)
 5. Wait, in case of successfull join, device will flash led 5 times, if join failed, device will flash led 2 times
 
-![Efekta THP_LR \ THP](https://github.com/smartboxchannel/EFEKTA_eON213z/blob/main/IMAGES/003.jpg) 
+![eON-INDOOR_CLIMATE_SENSOR_EFEKTA_eON29](https://github.com/smartboxchannel/eON-INDOOR_CLIMATE_SENSOR_EFEKTA_eON29z/blob/main/IMAGES/005.png) 
 
 ### Troubleshooting
 
