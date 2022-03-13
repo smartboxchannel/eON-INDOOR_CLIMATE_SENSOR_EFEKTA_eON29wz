@@ -6,19 +6,17 @@ It's a fully assembled and programmed compact wireless devices, atmospheric pres
 
 #### Donate to me: https://paypal.me/efektalab or just buy to support this project
 
-#### Sale: https://www.tindie.com/products/diyberk/indoor-weather-station-efekta-eon290wz-zigbee/
+#### Sale: https://www.tindie.com/products/diyberk/indoor-weather-station-efekta-eon290wz-zigbee/ Tindie removed the product without explanation
 
 #### Video: https://youtu.be/teVAnFkF8Qc
 
 #### zigbee2mqtt.io/supported-devices: https://www.zigbee2mqtt.io/supported-devices/#s=efekta
 
-#### Telegram ZigDev - https://t.me/zigdev
-
 #### Telegram DiyDev - https://t.me/diy_devices
 
 More info at http://efektalab.com/eON290wz
 
-Chinese version - 
+## To purchase sensors, write to hello@efektalab.com
 
 
 ---
