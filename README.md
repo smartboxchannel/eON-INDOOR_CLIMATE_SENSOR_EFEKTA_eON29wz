@@ -3,6 +3,7 @@ It's a fully assembled and programmed compact wireless devices, atmospheric pres
 
 ## It is forbidden to manufacture devices for commercial sale, only for personal use.
 
+## You can make your own pcb here - https://www.pcbway.com/setinvite.aspx?inviteid=550959
 
 #### Donate to me: https://paypal.me/efektalab or just buy to support this project
 
