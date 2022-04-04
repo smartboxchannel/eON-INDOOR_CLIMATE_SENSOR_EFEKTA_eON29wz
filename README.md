@@ -1,13 +1,13 @@
 # eON-INDOOR_CLIMATE_SENSOR_EFEKTA_eON29z
 It's a fully assembled and programmed compact wireless devices, atmospheric pressure, temperature, humidity, weather forecaster, illumination, charts with 2.9" e-paper display, resolution of 296 x 128 pixels. The device has an industrial look, at least I wanted to achieve this.  The sensor has good energy efficiency. Powered by CC2530 chip (Zigbee).  Support in zigbee2mqtt, zha.
 
-## It is forbidden to manufacture devices for commercial sale, only for personal use.
+### It is forbidden to manufacture devices for commercial sale, only for personal use.
+
+### You can purchase a ready-made device by writing to the mail hello@efektalab.com
+
+### Delivery is carried out worldwide.
 
 ## You can make your own pcb here - https://www.pcbway.com/setinvite.aspx?inviteid=550959
-
-#### Donate to me: https://paypal.me/efektalab or just buy to support this project
-
-#### Sale: https://www.tindie.com/products/diyberk/indoor-weather-station-efekta-eon290wz-zigbee/ Tindie removed the product without explanation
 
 #### Video: https://youtu.be/teVAnFkF8Qc
 
@@ -17,7 +17,6 @@ It's a fully assembled and programmed compact wireless devices, atmospheric pres
 
 More info at http://efektalab.com/eON290wz
 
-## To purchase sensors, write to hello@efektalab.com
 
 
 ---
