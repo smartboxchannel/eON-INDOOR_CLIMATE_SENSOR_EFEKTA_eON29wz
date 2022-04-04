@@ -3,7 +3,7 @@ It's a fully assembled and programmed compact wireless devices, atmospheric pres
 
 ### It is forbidden to manufacture devices for commercial sale, only for personal use.
 
-### You can purchase a ready-made device by writing to the mail hello@efektalab.com
+### You can buy a ready-made device by writing to the mail hello@efektalab.com
 
 ### Delivery is carried out worldwide.
 
